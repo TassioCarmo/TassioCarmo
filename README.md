@@ -1,4 +1,4 @@
-### 🌱 Currently learning python ... 
+### 🌱 Currently learning python 
 
 
 <div class="git-config" align="center">
