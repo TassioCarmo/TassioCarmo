@@ -33,8 +33,8 @@ Engenheiro de Dados com formação em Ciência da Computação e especializaçã
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TassioCarmo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TassioCarmo&layout=compact&theme=radical)
 
 </div>
 
